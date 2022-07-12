@@ -29,3 +29,9 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+## Task 2 links
+
+- S3 Bucket -
+  https://epiharma-s3bucket-sls-test1.s3.amazonaws.com/index.html; http://epiharma-s3bucket-sls-test1.s3-website-us-east-1.amazonaws.com/;
+- CloudFront website - https://d3ot6gd00szcem.cloudfront.net/
